@@ -1,0 +1,15 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environment
+*.env
+*.venv
+storefront-XbjzH4ai/
+
+# Django
+db.sqlite3
+*.log
+
+# IDE / Editor
+.vscode/
